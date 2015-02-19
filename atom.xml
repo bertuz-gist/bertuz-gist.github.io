@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://bertuz-gist.github.io/atom.xml" rel="self"/>
   <link href="http://bertuz-gist.github.io/"/>
-  <updated>2015-02-19T23:37:01+01:00</updated>
+  <updated>2015-02-19T23:38:21+01:00</updated>
   <id>http://bertuz-gist.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Post]]></title>
+    <link href="http://bertuz-gist.github.io/blog/2015/02/19/second-post/"/>
+    <updated>2015-02-19T23:38:00+01:00</updated>
+    <id>http://bertuz-gist.github.io/blog/2015/02/19/second-post</id>
+    <content type="html"><![CDATA[<p>and this is the second post from sublime text 2</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
